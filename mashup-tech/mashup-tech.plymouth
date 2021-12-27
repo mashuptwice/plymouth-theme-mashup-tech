@@ -1,0 +1,14 @@
+[Plymouth Theme]
+Name=MashUP Tech
+Description=Making a connection between nature and technology
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/mashup-tech
+HorizontalAlignment=.5
+VerticalAlignment=.5
+Transition=none
+TransitionDuration=0.0
+BackgroundStartColor=0x000000
+BackgroundEndColor=0x000000
+
