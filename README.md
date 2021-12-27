@@ -20,3 +20,5 @@ https://user-images.githubusercontent.com/54219098/147488391-9e165e95-c90a-4f40-
 #### Credits 
 
 The images for the encryption password input field come from the hot-dog theme. Capslock image is a modified version from [spinner](https://github.com/freedesktop/plymouth/blob/master/themes/spinner/capslock.png)
+
+The main logo as well as the animations are made by myself from a few free-to-use vector graphics. 
