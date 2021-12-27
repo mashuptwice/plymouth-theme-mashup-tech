@@ -14,3 +14,9 @@ https://user-images.githubusercontent.com/54219098/147488391-9e165e95-c90a-4f40-
 2. Place the "mashup-tech" folder in /usr/share/plymouth/themes
 3. run `plymouth-set-default-theme mashup-tech -R` The "-R" parameter regenerates the initrd image.
 4. reboot and watch the magic happen
+
+
+
+#### Credits 
+
+The images for the encryption password input field come from the hot-dog theme. Capslock image is a modified version from [spinner](https://github.com/freedesktop/plymouth/blob/master/themes/spinner/capslock.png)
