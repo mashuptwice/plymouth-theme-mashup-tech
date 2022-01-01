@@ -21,10 +21,12 @@ https://user-images.githubusercontent.com/54219098/147488391-9e165e95-c90a-4f40-
 
 1. clone the repository to your local machine
 2. Place the "mashup-tech" fol`der in /usr/share/plymouth/themes
-3. Set it as default theme via `sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/mashup-tech/mashup-tech.plymouth 100`
+3. Set it as default theme via `sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/mashup-tech/mashup-tech.plymouth 200`
 4. Run `sudo update-alternatives --config default.plymouth` and select the theme
 5. Run `sudo update-initramfs -u` to regenerate initramfs
 6. reboot and watch the magic happen
+
+
 
 #### Credits 
 
